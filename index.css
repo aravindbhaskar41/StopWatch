@@ -1,0 +1,19 @@
+* {
+  font-family: "Times New Roman", Times, serif;
+}
+body {
+  height: 100vh;
+  margin: 0;
+  padding: 0 5% 0 5%;
+}
+.container {
+  height: 30%;
+}
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.not-allowed {
+  cursor: not-allowed;
+}
